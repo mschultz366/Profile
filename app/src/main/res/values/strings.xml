@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="my_name">McKenna</string>
+    <string name="image_desc">Terry</string>
+    <string name="button">Profile</string>
+    <string name="text_box">Hello, my name is Mckenna.\n\n\n\nIt took me a full week to get my Lava Lamp working.\n\n\nThe front-right tire on my car goes flat twice a week, especially in cold weather.</string>
+</resources>
